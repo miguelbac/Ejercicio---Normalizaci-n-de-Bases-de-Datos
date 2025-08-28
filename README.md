@@ -6,8 +6,7 @@ https://docs.google.com/spreadsheets/d/1uOAgw3A31Yyi5_l0Danste3LpwQ693TetADzrp6V
 
 ## Diagrama de Chen
 
-<img width="563" height="348" alt="Captura" src="https://github.com/user-attachments/assets/2f4584dd-7782-4837-ac89-0c2baa75f8a9" />
-
+<img width="552" height="341" alt="Captura" src="https://github.com/user-attachments/assets/3a983c9c-4e29-4f21-9af7-45200903f262" />
 
 ## Diagrama de patas de gallo
 
